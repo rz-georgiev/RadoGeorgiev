@@ -3,3 +3,5 @@ obj/
 appsettings.json
 appsettings.Development.json
 appsettings.Production.json
+Properties/PublishProfiles/Default Settings.pubxml
+Properties/PublishProfiles/Default Settings.pubxml.user
